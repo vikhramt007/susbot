@@ -68,5 +68,4 @@ client.on('message', message =>{
     }
     else message.channel.send("unknown command");
 });
-client.login('NzYyMDQ3ODM1MDgzNzY3ODA4.X3jeWg.xuozvPf52g9EN92-EDP4XgZRdAo');
-//NzYxODA1MTg4MzczNjc2MDYy.X3f8Xg.cfUJVXXAz2L7U4FHuxda7GhoGMI
+client.login();
